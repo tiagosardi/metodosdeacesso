@@ -1,0 +1,74 @@
+Adicionar Aluno -  testado com 50 resultados (Media)
+
+Registros		Tempo
+200				0,01390
+1000			0,02384
+5000			0,12046
+25000			0,41695
+100000			1,61193
+
+
+Buscar Aluno por RA - testado com 50 resultados
+
+Registros		Tempo
+200				0,00549
+1000			0,02073
+5000			0,09548
+25000			0,45976
+100000			1,66260
+
+Buscar Aluno por NOME - testado com 50 resultados
+
+Registros		Tempo
+200				0,01071
+1000			0,02864
+5000			0,15206
+25000			0,52941
+100000			2,21609
+
+Buscar Aluno por SOBRENOME - testado com 50 resultados
+
+Registros		Tempo
+200				0,00545
+1000			0,02288
+5000			0,14338
+25000			0,51831
+100000			2,07191
+
+Buscar Aluno por NOME+SOBRENOME - testado com 50 resultados
+
+Registros		Tempo
+200				0,01193
+1000			0,04535
+5000			0,04486
+25000			0,84739
+100000			3,39449
+
+Buscar Aluno por NOTA 1, NOTA 2, NOTA 3 - testado com 50 resultados
+
+
+Registros		Tempo
+200				0,02493
+1000			0,06288
+5000			0,34629
+25000			1,47087
+100000			5,86885
+
+Remover Aluno por RA - testado com 50 resultados
+
+Registros		Tempo
+200				0,03352
+1000			0,09213
+5000			0,35957
+25000			1,95687
+100000			7,65759
+
+Reorganizar Arquivo para 1 remoção - testado com 50 resultados
+
+Registros		Tempo
+200				0,09565
+1000			0,55112
+5000			2,72621
+25000			13,85330
+100000			59,63569
+

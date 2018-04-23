@@ -1,0 +1,50 @@
+adiciona Leandro,Nogueira,15,1.8,10
+busca 5
+remove 6
+Reorganiza
+busca 15
+adiciona Mariana,Ferreira,3,3,3
+remove 5
+busca 4
+adiciona Fabio,Carvalho,4.5,6.2,7.1
+busca 5
+remove 8
+busca 1
+adiciona Tiago,Sardi,5,6,7
+remove 3
+busca 3
+adiciona Ana,Silva,7,8,6
+remove 10
+busca 8
+adiciona Marina,Rocha,4,9,2
+remove 9
+busca 6
+remove 8
+busca 12
+Reorganiza
+adiciona Leo,Souza,1.1,9.9,7.6
+remove 12
+busca 9
+adiciona Clara,Costa,6,5.5,6.5
+remove 10
+busca 2
+remove 15
+busca 1
+remove 11
+adiciona Joao,Couto,8,6,5.5
+Reorganiza
+busca 2
+adiciona Carlos,Cesar,5,3,4
+busca 18
+busca 8
+remove 13
+busca 14
+adiciona Alice,Maia,8,7,1.1
+remove 16
+busca 18
+remove 14
+busca 17
+adiciona Marcos,Santos,10,0,9
+busca 11
+remove 13
+Reorganiza

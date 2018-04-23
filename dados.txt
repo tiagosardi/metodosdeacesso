@@ -1,0 +1,17 @@
+1&Mariana&Marques&1.68&7.99&5.45
+10&AstrovaldoFernando&Tavares&6.28&0.69&1.15
+9&Elias&Tavares&7.46&6.84&8.48
+15&Beatriz&Lopes&2.37&8.50&9.32
+11&Amanda&Teixeira&6.42&6.73&2.04
+4&Tyson&Novaes&1.75&0.79&6.54
+14&Leonardo&Novaes&1.87&4.84&4.37
+12&Danilo&Favalessa&8.30&0.72&3.25
+8&Paula&Alves&6.29&1.53&5.35
+13&Tyson&Alves&8.92&5.65&5.04
+3&Elber&Gomes&8.07&2.97&4.82
+6&Felipe&Tavares&5.19&1.30&0.26
+5&Mateus&Souza&5.53&9.91&5.55
+2&Zacarias&Teixeira&3.73&4.19&3.13
+7&Camila&Brumatti&8.78&6.78&6.70
+16&Mariana&Rocha&10.00&9.50&8.73
+16&Ti&sardi&10.00&9.50&8.73
