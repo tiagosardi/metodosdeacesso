@@ -10,9 +10,9 @@ Um arquivo binário é criado para a entrada.
 Arquivos com 200 a 500.000 registros são organizados pelo algoritmo
 
 ### Compilação e execução
->> gcc <arquivo>.c -o <nomeExecutavel>
+>> gcc arquivo.c -o nomeExecutavel
 
->> ./<nomeExecutavel>
+>> ./nomeExecutavel
 
 ### Dependências
 Nenhuma
